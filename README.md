@@ -1,6 +1,6 @@
 #  Data Science for Software Engineering
 
-# Personal notes for Jocelyn
+# Personal notes for Jocelyn Ji
 
 See the [HEAT course syllabus](https://heat.csc.uvic.ca/coview/outline/2021/Fall/SENG/480b) for all mark weights and course policies, textbooks, etc. The syllabus also contains the important information on course communication and schedules and COVID information. Note that all three sections share the same syllabus.
 
